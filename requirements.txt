@@ -1,0 +1,11 @@
+torch
+transformers
+peft
+torch-geometric
+geoopt
+rdkit-pypi
+gradio
+hypertiling
+matplotlib
+numpy
+pandas
