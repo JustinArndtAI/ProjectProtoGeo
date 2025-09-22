@@ -1,0 +1,26 @@
+Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+Jupyter Notebook
+.ipynb_checkpoints
+
+Build artifacts
+build/
+dist/
+*.egg-info/
+
+IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+Project Data - Exclude large data directories
+data_raw/
+data_processed/
